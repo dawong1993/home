@@ -42,7 +42,7 @@
     ],
     "imageResize": true,
     "uniqCompNum": 14,
-    "versionPublish": "4.12.4",
+    "versionPublish": "5.2.0",
     "screenshot": "screenshot.png",
     "favicon": false,
     "robotsSwitcher": false,
